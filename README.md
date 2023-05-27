@@ -75,4 +75,9 @@
     
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;   
     
-  
+---
+
+### :fire: My Stats :    
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=honour-cyber&theme=dark&background=000000)](https://git.io/streak-stats) 
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honour-cyber&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
